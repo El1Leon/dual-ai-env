@@ -34,6 +34,6 @@ This repository automates switching between your ML and LLM stacks with a simple
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<yourusername>/dual-ai-env.git
+git clone https://github.com/el1leon/dual-ai-env.git
 cd dual-ai-env
 
