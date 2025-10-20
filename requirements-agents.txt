@@ -1,0 +1,9 @@
+autogen-core==0.9.10
+autogen==0.9.10
+autogen-agentchat==0.9.10
+pyautogen==0.9.10
+crewai
+langchain
+chromadb
+openai
+protobuf~=5.29.3

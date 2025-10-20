@@ -1,0 +1,10 @@
+tensorflow-macos==2.16.2
+tensorflow-metal==1.2.0
+torch
+torchvision
+torchaudio
+numpy
+scikit-learn
+pandas
+matplotlib
+protobuf<5.0.0
